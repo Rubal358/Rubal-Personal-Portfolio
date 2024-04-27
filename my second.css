@@ -22,6 +22,8 @@ body {
     border-bottom: .5px solid #ffffff52;
     border-width: 80%;
     margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #navbar ul {
